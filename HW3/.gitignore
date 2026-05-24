@@ -13,3 +13,5 @@ __pycache__/
 
 # Jupyter 체크포인트
 .ipynb_checkpoints/
+
+HW3_report.md
