@@ -1,0 +1,18 @@
+# 데이터셋 (용량 큰 원본 파일)
+data/
+
+# Claude Code 설정
+.claude/
+
+# 임시 파일 / 로그
+*.log
+*.txt
+_report_tmp.html
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter 체크포인트
+.ipynb_checkpoints/

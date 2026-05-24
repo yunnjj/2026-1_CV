@@ -1,0 +1,4 @@
+activation,layer1_dead_or_saturated_percent,layer2_dead_or_saturated_percent,final_accuracy_percent,min_test_loss,convergence_epoch_85_percent,final_grad_norm_l1,final_grad_norm_l2
+ReLU,26.5625,100.0,50.13333333333333,0.6931435038248698,-1,0.0,0.0
+LeakyReLU,0.0,0.0,93.33333333333333,0.17631091817220051,2,0.2511081515500943,0.06398700643330812
+Sigmoid,1.5625,50.0,86.4,0.29111359659830727,3,0.02020232702812387,0.024670836205283802
