@@ -1,8 +1,5 @@
-# 데이터셋 (용량 큰 원본 파일)
+# 데이터셋
 data/
-
-# Claude Code 설정
-.claude/
 
 # 임시 파일 / 로그
 *.log
